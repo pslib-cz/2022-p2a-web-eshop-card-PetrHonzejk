@@ -1,8 +1,6 @@
 element.style {
 }
 
-@supports (display:grid)
-
 div.item_b {
     display: -ms-grid;
     display: grid;
